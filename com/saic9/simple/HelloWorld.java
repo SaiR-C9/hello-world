@@ -1,4 +1,4 @@
-package com.sai-c9.simple;
+package com.saic9.simple;
 
 /**
  * Hello world!
